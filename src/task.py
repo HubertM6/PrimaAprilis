@@ -12,3 +12,7 @@ def task_3():
 
 def task_3():
     pass
+
+
+def task_4():
+    pass
